@@ -1,0 +1,9 @@
+At line no : 6 redeclaration
+At line no : 7 array index should be int
+At line no : 8 type mismatch
+At line no : 9 modulus operator cannot have float operand
+At line no : 10 type mismatch
+At line no : 11 type mismatch
+At line no : 12 undeclared variable
+At line no : 12 type mismatch
+Total number of error : 8
